@@ -1,0 +1,40 @@
+{
+	"categorias": [
+		{
+			"id": "teclados",
+			"title": "Teclados"
+		},
+		{
+			"id": "notebooks",
+			"title": "Notebooks"
+		},
+		{
+			"id": "armazenamemnto",
+			"title": "SSD"
+		},
+		{
+			"id": "gabinetes",
+			"title": "Gabinetes"
+		},
+		{
+			"id": "mouses",
+			"title": "Mouses"
+		},
+	],
+	"products": [
+		{
+			"id": 1,
+			"title": "Teckadi Mecânico",
+			"price": 350,
+			"category_id": "teclados",
+			"slug": "teclado-mecanico"
+		},
+		{
+			"id": 2,
+			"title": "Mouse Gamer",
+			"price": 120.9,
+			"category_id": "mouses",
+			"slug": "mouse-gamer"
+		}
+	]
+}
